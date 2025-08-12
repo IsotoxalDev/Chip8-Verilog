@@ -1,0 +1,7 @@
+{
+    "name": "chip8",
+    "includedFiles": "all",
+    "board": "tangnano20k",
+    "top": "chip8",
+    "testBenches": "all"
+}
